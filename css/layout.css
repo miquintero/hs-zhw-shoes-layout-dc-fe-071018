@@ -22,6 +22,70 @@
   clear: both;
 }
 
+.oldblue {
+  width: 66.66%;
+  float: left;
+  display: inline;
+  height: 589px;
+}
+
+.archive {
+  width: 31%;
+  margin: 0px 0px 0px 10px;
+  float: right;
+  background-color: none;
+  position: relative;
+
+}
+
+.polkadots {
+  width: 31.7%;
+  margin: 20px 10px 20px 0px;
+  float: left;
+  display: inline;
+  position: relative;
+
+}
+
+.chucks {
+  width: 31.7%;
+  margin: 20px 10px 20px 10px;
+  float: left;
+  display: inline;
+  position: relative;
+
+}
+
+.strappy {
+width: 31.7%;
+margin: 20px 0px 20px 10px;
+float: left;
+display: inline;
+position: relative;
+
+}
+
+.info {
+  float: left;
+  display: inline;
+  position: relative;
+
+}
+
+.links {
+  float: left;
+  display: inline;
+  position: relative;
+
+}
+
+.follow {
+float: left;
+display: inline;
+position: relative;
+}
+
+footer {
+  margin: 0px 200px;
+}
 /* Posititoning Classes */
-
-
