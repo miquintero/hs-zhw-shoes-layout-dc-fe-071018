@@ -69,4 +69,8 @@ display: inline;
 float: left;
 display: inline;
 }
+
+footer {
+  margin: 0 auto; 
+}
 /* Posititoning Classes */
