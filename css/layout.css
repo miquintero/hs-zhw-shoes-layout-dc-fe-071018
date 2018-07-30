@@ -56,6 +56,7 @@ display: inline;
 }
 
 .info {
-  float: left; 
+  float: left;
+  display: inline;  
 }
 /* Posititoning Classes */
