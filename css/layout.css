@@ -22,6 +22,32 @@
   clear: both;
 }
 
+.layout-grid {
+ display: block;
+ grid-column-gap: 15px;
+ grid-row-gap: 15px;
+ grid-template-columns: 7fr 3fr;
+}
+
+.sml {
+  height: 33.3%;
+  width: 33.3%;
+}
+
+.row{
+  display: block;
+}
+
+.row2 {
+  width: 683.36px;
+}
+
+.blue {
+  width: 643.36px;
+}
+
+.row2_3{
+  width: 200px;
+}
+
 /* Posititoning Classes */
-
-
