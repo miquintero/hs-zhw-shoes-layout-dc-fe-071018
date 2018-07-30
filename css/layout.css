@@ -24,15 +24,19 @@
 
 .oldblue {
   width: 66.66%;
-  padding: 20px;
   float: left;
 }
 
 .archive {
   width: 30%;
   margin: 20px
-  padding: 20px;
   float: right;
-  background-color: none; 
+  background-color: none;
+}
+
+.polkadots {
+  width 30%
+  margin: 20px;
+
 }
 /* Posititoning Classes */
