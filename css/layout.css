@@ -26,7 +26,7 @@
   width: 66.66%;
   float: left;
   display: inline;
-  height: 589px; 
+  height: 589px;
 }
 
 .archive {
@@ -39,7 +39,7 @@
 }
 
 .polkadots {
-  width: 25%;
+  width: 28%;
   margin: 20px 20px 20px 0px;
   float: left;
   display: inline;
@@ -48,7 +48,7 @@
 }
 
 .chucks {
-  width: 25%;
+  width: 28%;
   margin: 20px 20px 20px 20px;
   float: left;
   display: inline;
@@ -57,7 +57,7 @@
 }
 
 .strappy {
-width: 25%;
+width: 28%;
 margin: 20px 0px 20px 20px;
 float: left;
 display: inline;
