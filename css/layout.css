@@ -64,4 +64,9 @@ display: inline;
   float: left;
   display: inline;
 }
+
+.follow {
+float: left;
+display: inline;
+}
 /* Posititoning Classes */
