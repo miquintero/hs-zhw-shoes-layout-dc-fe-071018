@@ -72,7 +72,7 @@ display: inline;
 
 footer {
   margin: 0 auto;
-  position: relative;
+  position: absolute;
   left: 200px;
 }
 /* Posititoning Classes */
