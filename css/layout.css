@@ -57,6 +57,11 @@ display: inline;
 
 .info {
   float: left;
-  display: inline;  
+  display: inline;
+}
+
+.links {
+  float: left;
+  display: inline;
 }
 /* Posititoning Classes */
