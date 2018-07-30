@@ -25,13 +25,13 @@
 .oldblue {
   width: 66.66%;
   padding: 20px;
-  float: left; 
+  float: left;
 }
 
 .archive {
-  width: 33.3%; 
+  width: 33.3%;
   margin: 20px
-  padding: 20px; 
+  padding: 20px;
   float: right; 
 }
 /* Posititoning Classes */
