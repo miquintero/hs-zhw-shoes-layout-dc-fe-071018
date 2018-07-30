@@ -71,6 +71,7 @@ display: inline;
 }
 
 footer {
-  margin: 0 auto; 
+  margin: 0 auto;
+  postion: relative; 
 }
 /* Posititoning Classes */
